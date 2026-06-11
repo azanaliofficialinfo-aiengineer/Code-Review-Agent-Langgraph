@@ -1,0 +1,33 @@
+# Web framework
+fastapi==0.111.1
+uvicorn[standard]==0.30.3
+
+# Settings & validation
+pydantic==2.8.2
+pydantic-settings==2.3.4
+
+# Database
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+alembic==1.13.2
+
+# Cache / queue
+redis==5.0.8
+
+# HTTP client — GitHub API calls
+httpx==0.27.0
+
+# GitHub App authentication
+PyJWT==2.9.0
+cryptography==43.0.0
+
+# AI — Groq (Phase 4)
+groq==0.11.0
+tenacity==8.5.0
+
+# AI — LangGraph orchestration (Phase 5)
+langgraph==0.2.3
+
+# Utilities
+python-dotenv==1.0.1
+python-multipart==0.0.9
