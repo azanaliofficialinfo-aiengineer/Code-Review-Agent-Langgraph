@@ -1113,3 +1113,12 @@ Expected: **27 PASS backend · 60 PASS frontend · 0 FAIL**.
 1. Create a feature branch: `git checkout -b feat/your-feature`
 2. Make changes and run `npm run type-check` (frontend) or `pytest` (backend)
 3. Open a PR — the CodeReview Agent will review it automatically (once Phase 6 is complete)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c604c8be-914b-4f22-97e5-a5a2b9239583" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/707a6e39-f093-42f8-9367-f49376cc87b9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b5b1490-fa64-40ed-9212-cdad2b905ed0" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f70d39b0-5233-4d1b-bf1f-4be0d0637949" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b99aa0de-94e7-4124-b1aa-8f76dc6a0e54" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ff924d7-4ce9-4b7e-b9ae-fec55c9d7e95" />
+
