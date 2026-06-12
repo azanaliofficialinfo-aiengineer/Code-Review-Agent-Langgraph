@@ -135,7 +135,6 @@ docker compose up postgres redis
 | **7.5** | Persistence + API Hardening — pagination, auth, fallback | ✅ **Complete** |
 | **8A** | Dashboard + Analytics APIs — 6 pages, 5 analytics endpoints | ✅ **Complete** |
 | **8A.5** | Deployment Readiness Fix Sprint — CORS, Docker, a11y, mobile | ✅ **Complete** |
-| **8B** | Production Deploy — Railway / Render, CI/CD, rate limits | 🔲 Planned |
 
 ---
 
